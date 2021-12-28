@@ -1,0 +1,10 @@
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\bin\Debug\ServerConfigForm-P5-20190140100.exe.config
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\bin\Debug\ServerConfigForm-P5-20190140100.exe
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\bin\Debug\ServerConfigForm-P5-20190140100.pdb
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm-P5-20190140100.csproj.AssemblyReference.cache
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm_P5_20190140100.Form1.resources
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm_P5_20190140100.Properties.Resources.resources
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm-P5-20190140100.csproj.GenerateResource.cache
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm-P5-20190140100.csproj.CoreCompileInputs.cache
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm-P5-20190140100.exe
+D:\INS 2020\ServerConfigForm-P5-20190140100\ServerConfigForm-P5-20190140100\obj\Debug\ServerConfigForm-P5-20190140100.pdb

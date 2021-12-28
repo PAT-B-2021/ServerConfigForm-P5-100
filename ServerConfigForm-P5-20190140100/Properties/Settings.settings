@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ServerConfigForm_P5_20190140100.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Button" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ON</Value>
+    </Setting>
+    <Setting Name="buttonOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OFF</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
